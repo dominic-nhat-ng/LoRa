@@ -1,1 +1,1 @@
-# hcmus-project
+# hcmut-project
